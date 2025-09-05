@@ -1,1 +1,13 @@
 # Portfolio-website
+# 🌟 Portfolio Website
+
+This is my personal portfolio website built with HTML, CSS, and JavaScript.  
+It showcases my projects, skills, and contact information.  
+
+## 🔗 Live Demo
+[View Portfolio Website](https://ruby-here.github.io/portfolio-website/)
+
+## ⚡ Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript  
